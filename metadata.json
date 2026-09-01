@@ -1,0 +1,6 @@
+{
+  "name": "Samir Family Restaurant - QR Ordering & Management",
+  "description": "Mobile-first QR ordering system, digital menu, live kitchen display system, waiter call alerts, table management, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
